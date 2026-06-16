@@ -880,9 +880,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👥 Authors
+## 👥 Author
 
-- **Muhammad Habeeb Rahman** - *Initial work* - [muh-habeeb](https://github.com/muh-habeeb)
+- **Thameem Rahman**
 
 ---
 
@@ -893,14 +893,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Cloudinary](https://cloudinary.com/) for image hosting
 - [Google](https://developers.google.com/) for OAuth and Gemini AI
 - The open-source community
-
----
-
-## 📞 Support
-
-- 📧 Email: muhammadhabeebrahmam@gmail.com
-- 🐛 Issues: [GitHub Issues](https://github.com/muh-habeeb/quicktap/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/muh-habeeb/quicktap/discussions)
 
 ---
 
@@ -921,7 +913,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by Muhammad Habeeb Rahman**
 
 ⭐ Star this repo if you find it helpful!
 
